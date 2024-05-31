@@ -1,8 +1,6 @@
 ### Soruce: https://www.kaggle.com/code/matthewjansen/transfer-learning-brain-tumor-classification
-
 ### DataSet: https://www.kaggle.com/datasets/fernando2rad/brain-tumor-mri-images-44c
-
-
+-----------------------------------
 <a id=toc></a>
 <h1 style="padding: 35px;color:white;margin:10;font-size:200%;text-align:center;display:fill;border-radius:10px;overflow:hidden;background-image: url(https://i.postimg.cc/T1D2yGny/167.jpg); background-size: 100% auto;background-position: 0px 0px; 
 "><span style='color:white;'>Transfer Learning | Brain Tumor Classification</span></h1>
